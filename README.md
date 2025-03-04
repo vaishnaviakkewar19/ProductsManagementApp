@@ -1,3 +1,2 @@
 # ProductsManagementApp
-
 # Repository pattern implemented
